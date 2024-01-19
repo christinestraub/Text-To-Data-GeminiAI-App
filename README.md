@@ -1,1 +1,1 @@
-# Text-To-Data-GeminiAI-App
+# Text-To-Data-Retriever-GeminiAI-App
