@@ -64,22 +64,6 @@ Built With
 -   [Gemini AI Model](https://huggingface.co/babelscape/gemini) - AI model for generating SQL queries
 -   [MySQL](https://www.mysql.org/) - Database toolkit and Object-Relational Mapping (ORM) system for Python
 
-Contributing
-------------
-
-Please read [CONTRIBUTING.md](https://gist.github.com/your-username/new-file.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-Versioning
-----------
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your-username/ask-the-image-gemini-ai-app/tags).
-
-Authors and Acknowledgment
---------------------------
-
--   **Christine Straub** 
-
-See also the list of [contributors](https://github.com/your-username/ask-the-image-gemini-ai-app/contributors) who participated in this project.
 
 License
 -------
