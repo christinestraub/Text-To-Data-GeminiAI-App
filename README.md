@@ -63,9 +63,3 @@ Built With
 -   [Streamlit](https://streamlit.com/) - Web framework
 -   [Gemini AI Model](https://huggingface.co/babelscape/gemini) - AI model for generating SQL queries
 -   [MySQL](https://www.mysql.org/) - Database toolkit and Object-Relational Mapping (ORM) system for Python
-
-
-License
--------
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
